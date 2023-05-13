@@ -337,14 +337,14 @@ code {
   .movie-card .right {
     position: relative;
     flex: 10;
-    border: 1px solid black;
+    /* border: 1px solid black; */
   }
   .movie-card .title {
     width: auto;
     padding: 5px 10px;
     font-size: 8px;
     font-weight: 400;
-    border: 1px solid black;
+    /* border: 1px solid black; */
   }
   .movie-card .plot {
     margin-top: 10px;
@@ -352,7 +352,7 @@ code {
     height: auto;
     font-size: 7px;
     overflow: scroll;
-    border: 1px solid black;
+    /* border: 1px solid black; */
   }
   .footer {
     position: absolute;
@@ -362,7 +362,7 @@ code {
     width: 100%;
     padding: 5px 10px;
     box-sizing: border-box;
-    border: 1px solid black;
+    /* border: 1px solid black; */
   }
   .footer .rating {
     font-size: 10px;
